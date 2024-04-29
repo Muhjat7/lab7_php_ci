@@ -2,6 +2,24 @@ Nama : Muhamad Jati Wasesa <br>
 Kelas : TI.22.A5 <br>
 praktikum Pemograman Web <br>
 ## hasil program
+![Capture](https://github.com/Muhjat7/lab7_php_ci/assets/129918243/36cdfe49-2387-4fbd-a04d-2137da595adf)
+
+### hasil index about
+![Capture1](https://github.com/Muhjat7/lab7_php_ci/assets/129918243/34a84e51-9d85-4f08-a81e-3136d49b7f20)
+
+### hasil index admin
+![Capture2](https://github.com/Muhjat7/lab7_php_ci/assets/129918243/2278409c-a446-4c8b-b55b-9036e8e903ba)
+
+![Capture3](https://github.com/Muhjat7/lab7_php_ci/assets/129918243/a38576bf-9c9b-4ab8-b4c4-83b451277ea3)
+
+
+
+
+
+
+
+
+
 
 # CodeIgniter 4 Framework
 
